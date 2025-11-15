@@ -8,7 +8,7 @@ import { Toaster } from "@/components/ui/sonner";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "Hume AI - EVI - Next.js Starter",
+  title: "KWIK - 112 Emergency Response Support System (ERSS)",
   description: "A Next.js starter using Hume AI's Empathic Voice Interface",
 };
 
